@@ -43,7 +43,7 @@ The Frontend Mentor workflow
 
 ### Continued development
 
-I need to continue practicing how to integrate UI from a design, which is more akin to a "real-life" workflow
+I need to keep on practicing how to integrate UI from a design, which is more akin to a "real-life" workflow
 
 I'd like to delve into GitHub Actions to deploy more complex websites on platforms other than GitHub Pages
 
