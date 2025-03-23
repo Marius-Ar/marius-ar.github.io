@@ -17,8 +17,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-<img alt="My implementation on a large screen" src="./screenshot_desktop.jpeg"/>
-<img alt="My implementation on a mobile screen" src="./screenshot_mobile.png" width="250"/>
+<img alt="My implementation on a large screen" src="screenshot_desktop.jpeg"/>
+<img alt="My implementation on a mobile screen" src="screenshot_mobile.png" width="250"/>
 
 ### Links
 
